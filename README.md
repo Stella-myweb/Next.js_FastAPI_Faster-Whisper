@@ -1,0 +1,1 @@
+# Next.js_FastAPI_Faster-Whisper
